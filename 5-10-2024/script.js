@@ -7,6 +7,13 @@ console.log("Hello World");
 // } 
 // hello();
 
+// function add(a,b){
+//     console.log(a+b); 
+//     console.log(a-b); 
+//     console.log(a*b); 
+//     console.log(a/b); 
+//     console.log(a%b); 
+//     }add(10,14);
 
 // Arrow Functions
 
